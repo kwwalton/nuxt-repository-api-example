@@ -14,6 +14,8 @@
         {{ user.name }}
       </li>
     </ul>
+    <hr />
+    <Albums />
   </div>
 </template>
 
